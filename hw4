@@ -1,0 +1,5 @@
+data=[2,3,4]
+data2=[]
+data2=data.copy()
+print(data)
+print(data2)
